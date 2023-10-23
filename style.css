@@ -1,0 +1,155 @@
+.brand-logo {
+    margin-left: 30px;
+}
+
+.metric-value {
+    font-size: 26px;
+    font-weight: 300;
+}
+
+.metric-percent {
+    font-size: 12px;
+}
+
+.up-arrow {
+    vertical-align: bottom;
+    color: green;
+}
+
+.down-arrow {
+    vertical-align: bottom;
+    color: red;
+}
+
+body {
+    background-color: #f4f4f4;
+}
+
+.col {
+    transition: 400ms;
+}
+
+.chart-blue {
+    background-image: url(images/blue.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.chart-yellow {
+    background-image: url(images/yellow.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.chart-pink {
+    background-image: url(images/pink.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.chart-green {
+    background-image: url(images/green.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#chart-line {
+    height: 100px;
+}
+
+.row {
+    margin: 0%;
+}
+
+.red {
+    border-radius: 2px;
+    font-weight: 300;
+    padding: 3px;
+}
+
+.message {
+    padding-left: 10px;
+}
+
+.time {
+    float: right;
+    font-size: 12px;
+}
+
+.white-text {
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.date {
+    background-color: #438afe;
+}
+
+.dot {
+    display: inline-block;
+    margin-right: 10px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+.page-footer {
+    background-color: #fff;
+    border-top: 1px solid #b9b9b9;
+    color: #444;
+    padding: 40px 0;
+}
+
+.icon-label {
+    font-size: 13px;
+    font-weight: 300;
+}
+
+.footer-label {
+    font-weight: 300;
+    font-size: 13px;
+}
+
+a {
+    color: #444;
+}
+
+.logo {
+    margin-left: 30px;
+    height: 64px;
+    line-height: 64px;
+    font-size: 24px;
+    color: black;
+    
+}
+
+.logo-icon {
+    margin-left: 50px;
+}
+
+.bold {
+    font-weight: 500;
+    font-size: 16px;
+    border-bottom: 1px solid #424242;
+}
+
+.sidenav {
+    background-color: #438afe;
+}
+
+.side-content {
+    background-color: #438afe;
+}
+
+.divider {
+    background-color: rgb(59, 59, 59);
+    padding: 0;
+}
+
+.head-logo {
+    border-bottom: 1px solid #424242;
+}
