@@ -131,10 +131,11 @@ a {
     margin-left: 50px;
 }
 
-.bold {
+.bodl {
     font-weight: 500;
     font-size: 16px;
     border-bottom: 1px solid #424242;
+
 }
 
 .sidenav {
@@ -142,7 +143,7 @@ a {
 }
 
 .side-content {
-    background-color: #438afe;
+    background-color: #387be7;
 }
 
 .divider {
